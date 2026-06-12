@@ -20,7 +20,7 @@
     weight = 20
 
 [[main]]
-    name = "SERGE"
+    name = "Serge"
     parent = "About"
     pageRef = "about/serge"
     weight = 10
@@ -41,6 +41,11 @@
     pageRef = "probes/wmsp"
     weight = 20
 
+[[main]]
+    name = "Zephyr"
+    parent = "Probes"
+    pageRef = "probes/zephyr"
+    weight = 30
 
 
 
