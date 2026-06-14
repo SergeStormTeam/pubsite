@@ -23,7 +23,8 @@ title = "Serge"
   links = [
     { email = "thesergeteam@gmail.com" },
     { github = "https://github.com/SergeStormTeam" },
-   { instagram = "https://instagram.com/serge.storm.team" },
+    { instagram = "https://instagram.com/serge.storm.team" },
+    { x-twitter = "https://x.com/TheSERGETeam"}
 
   ]
 #     { link = "https://link-to-some-website.com/" },

@@ -16,8 +16,13 @@
     weight = 10
 
 [[main]]
-    name = "About"
+    name = "Posts"
+    pageRef = "blogs"
     weight = 20
+
+[[main]]
+    name = "About"
+    weight = 30
 
 [[main]]
     name = "Serge"
@@ -33,7 +38,13 @@
 
 [[main]]
     name = "Probes"
-    weight = 30
+    weight = 40
+
+[[main]]
+    name = "Zephyr"
+    parent = "Probes"
+    pageRef = "probes/zephyr"
+    weight = 10
 
 [[main]]
     name = "Wisconsin Mobile Storm Probe"
@@ -42,15 +53,27 @@
     weight = 20
 
 [[main]]
-    name = "Zephyr"
-    parent = "Probes"
-    pageRef = "probes/zephyr"
-    weight = 30
+    name = "Socials"
+    pageRef = "blogs"
+    weight = 50
 
 [[main]]
-  name = "Posts"
-  pageRef = "blogs"
-  weight = 40
+    name = "Instagram"
+    parent = "Socials"
+    url = "https://www.instagram.com/serge.storm.team"
+    weight = 10
+
+[[main]]
+    name = "X/Twitter"
+    parent = "Socials"
+    url = "https://x.com/TheSERGETeam"
+    weight = 20
+
+[[main]]
+    name = "Github"
+    parent = "Socials"
+    url = "https://github.com/SergeStormTeam"
+    weight = 30
 
 #[[main]]
 #  name = "example sub-menu 2"
