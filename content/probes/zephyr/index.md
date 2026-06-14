@@ -2,9 +2,9 @@
 title: "Zephyr Storm Probe"
 date: 2026-06-12
 layout: "full-width"
-summary: "Information Regarding Serge's Zephyr Mobile Deployment Probe"
+summary: "Serge's newest storm probe! Being stronger, faster, and boasting many more improvements then the first!"
 draft: false
-tags: ["Probes"]
+tags: ["About", "Probes"]
 ---
 
 ### Zephyr is our newest creation from the Serge team, the name being one of our old team name ideas.

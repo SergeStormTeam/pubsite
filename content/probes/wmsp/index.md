@@ -2,9 +2,9 @@
 title: "Wisconsin Mobile Storm Probe"
 date: 2026-06-11
 layout: "full-width"
-summary: "Public Site for the SERGE Storm Chasing Team"
+summary: "The first probe, before Serge's creation! The start of something that nobody could have expected"
 draft: false
-tags: ["Probes"]
+tags: ["About", "Probes"]
 ---
 
 

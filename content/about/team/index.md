@@ -1,14 +1,13 @@
 ---
 title: "Meet the Serge Team!"
-date: 2022-03-08
+date: 2026-06-13
 layout: "full-width"
-showHero: true
-heroStyle: "background"
-summary: "Public Site for the SERGE Storm Chasing Team"
+summary: "The team behind Serge! Get to know about each of our team members!"
+tags:
+  - About
 ---
 
 Meet each member of the SERGE Storm Chasing Team! Below is everyone on the team, along with their titles and what they have done!
-
 
 {{< person image="images/person-icons/mason_edwards.png" name="Mason Edwards" titles="Team Co-Lead, Lead Electrical Engineer">}}
 Mason Edwards is the reason this team exists today. He is the mastermind when it comes to planning, building and operating the storm probe, along with being the designated driver when chasing.

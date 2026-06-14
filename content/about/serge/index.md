@@ -1,8 +1,10 @@
 ---
 title: "About Serge"
-date: 2026-05-30
+date: 2026-06-14
 layout: "full-width"
 summary: "Come and learn all about the SERGE team! Everything from what we do, our goal, and why we do it!"
+tags:
+  - About
 ---
 
 ___SERGE: Severe Environment Research and Geodata Examination___
