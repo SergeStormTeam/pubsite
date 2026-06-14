@@ -1,2 +1,1 @@
-# serge-pubsite
-The public site for the SERGE Team
+# Pubsite - [serge.cs.house](https://serge.cs.house).

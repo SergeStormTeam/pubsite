@@ -1,24 +1,20 @@
 ---
-title: "About Us"
-date: 2026-05-30
+title: "About Serge"
+date: 2026-06-14
 layout: "full-width"
-showHero: false
-heroStyle: "background"
 summary: "Come and learn all about the SERGE team! Everything from what we do, our goal, and why we do it!"
+tags:
+  - About
 ---
 
-## SERGE: Severe Environment Research and Geodata Examination
+___SERGE: Severe Environment Research and Geodata Examination___
 
-### What is SERGE?
+## What is Serge?
 
-SERGE is a storm chasing team dedicated to making tommorow a safer day, using engineered technologies to obtain measurements from storm systems. After, using this collected data for weather models to make them more accurate. The end goal from these endeavors is to increase the accuracy of warning systems to ensure people get to the safety they need. An accurate warning can be the difference between a severe weather system having to be fatal.
+Serge is a storm chasing team based in Wisconsin. Founded by the original creators of the Wisconsin Mobile Storm Probe, the Serge team aims to create projects to help the forecasting of severe storms, and making the difference between a life lost and a life saved.
 
-### How do we do it?
+Severe Thunderstorms are one of the most peculiar weather phenomena that we have on this planet, and it is almost impossible for us to predict which specific storms will produce a tornado and when. While we can give out watches ahead of time, we can't pinpoint when and where. The Serge team aims to try and change that. By going out and examining shifts in environmental variables at the ground level, we hope to be able to improve forecasts to make sure fatalities from unwarned storms lowers as much as possible
 
-__TODO:__
+We want to accomplish this by breathing a new, invigorating life into the storm chasing field. With our team's combined knowledge in many different disciplines, combined with our team's extremely tight knit bonds, we use these qualities to bring an extremely passionate energy to the field where we go. 
 
-
-### What do we use?
-
-__TODO:__
-
+__Serge aims to make the next day clearer for everyone, one chase at a time.__

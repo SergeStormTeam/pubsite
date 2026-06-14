@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "SERGE"
+title = "Serge"
 
 [params]
   displayName = "EN"
@@ -11,18 +11,21 @@ title = "SERGE"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "SERGE Storm Chasing"
-  copyright = "&copy; 2026 SERGE Team. All Rights Reserved."
+  description = "Serge Storm Chasing"
+  copyright = "&copy; 2026 Serge Team. All Rights Reserved."
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[params.author]
+  name = "Serge Storm Chasing"
+  image = "images/serge_logo.png"
+  imageQuality = 96
+  headline = "Making the Next Day Clearer, One Chase at a Time"
+  bio = "Making the Next Day Clearer, One Chase at a Time"
+  links = [
+    { email = "thesergeteam@gmail.com" },
+    { github = "https://github.com/SergeStormTeam" },
+   { instagram = "https://instagram.com/serge.storm.team" },
+
+  ]
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
