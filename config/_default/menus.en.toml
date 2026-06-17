@@ -75,6 +75,11 @@
     url = "https://github.com/SergeStormTeam"
     weight = 30
 
+
+[[main]]
+    name = "Donate!"
+    url = "https://www.gofundme.com/f/help-serge-build-a-new-storm-probe?attribution_id=sl:1d47e971-9acf-4808-8ccf-52c0ae1560b3&lang=en_US&ts=1781648332&utm_campaign=fp_sharesheet&utm_content=amp17_control-amp20_control&utm_medium=customer&utm_source=copy_link"
+    weight = 60
 #[[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
