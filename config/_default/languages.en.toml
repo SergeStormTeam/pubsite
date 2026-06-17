@@ -24,8 +24,8 @@ title = "Serge"
     { email = "thesergeteam@gmail.com" },
     { github = "https://github.com/SergeStormTeam" },
     { instagram = "https://instagram.com/serge.storm.team" },
-    { x-twitter = "https://x.com/TheSERGETeam"}
-
+    { x-twitter = "https://x.com/TheSERGETeam"},
+    { youtube = "https://youtube.com/@SergeStormTeam" },
   ]
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
